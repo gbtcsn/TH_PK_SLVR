@@ -20,5 +20,4 @@ Opponent Modeling and Opponent Modeling Algorithms
 Counterfactual Regret Minimization (CRM) Algorithm
 
 Independent Chip Model (ICM)
-
-Examples of Implementation and Results
+
